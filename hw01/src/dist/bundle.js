@@ -9429,7 +9429,7 @@ exports.BackImageName = 'back_class_normal.png';
 exports.GearImageName = 'icon_gear.png';
 exports.PowerImageName = 'CloseNormal.png';
 exports.ModelDir = [
-    'miku_sample_t04'
+    'Cat'
 ];
 exports.ModelDirSize = exports.ModelDir.length;
 exports.MotionGroupIdle = 'Idle';
